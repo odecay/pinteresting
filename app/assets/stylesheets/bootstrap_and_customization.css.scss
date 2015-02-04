@@ -1,0 +1,11 @@
+$body-bg: #F0ECEA;
+$navbar-inverse-bg: #333444;
+$navbar-inverse-link-color: #FFF2F2;
+$jumbotron-bg: #FFF2F2;
+//$brand-primary: #333444;
+$border-radius-base: 0px;
+@import 'bootstrap';
+
+.jumbotron {
+	text-align: center;
+}
